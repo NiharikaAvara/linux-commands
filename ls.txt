@@ -1,0 +1,6 @@
+command:ls
+options:s -R lists all the files in the subdirectories.
+        ls -a shows hidden files in addition to the visible ones.
+        ls -lh shows the file sizes in easily readable formats, such as MB, GB, and TB.
+example:ls /home/username/Documents(to view files in documents)
+output:
