@@ -1,0 +1,4 @@
+command:mkdir
+options:-p or -parents(create a directory between two existing folders)
+example:mkdir -p Music/2020/Songs 
+outputdirectory created
